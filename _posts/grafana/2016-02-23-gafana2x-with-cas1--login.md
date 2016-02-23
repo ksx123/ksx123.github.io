@@ -1,4 +1,6 @@
 ---
+theme :
+  name : bootstrap-3
 layout: post
 title: "Gafana2.x With CAS(1)--Login"
 description: ""
